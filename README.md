@@ -13,3 +13,5 @@ A list of lists that describe Bitcoin Cash adoption, development, projects, etc.
 [BitcoinMap.Cash: Fancy categorized map for physical merchants](https://bitcoinmap.cash/)
 
 [HostFat's Links: All in one hosted on Bitcointalk.org](https://bitcointalk.org/index.php?topic=5064089.msg)
+
+[.Cash List:  List of BCH Websites using .cash domain](https://www.reddit.com/user/BCHcain/comments/9zuijc/running_list_of_all_cash_websites/?st=JPCUOVUH&sh=826f30fc)

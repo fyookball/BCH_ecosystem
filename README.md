@@ -11,3 +11,5 @@ A list of lists that describe Bitcoin Cash adoption, development, projects, etc.
 [Bitcoin Cash Meetups](https://bitcoincashers.org/get-involved/meetup/)
 
 [BitcoinMap.Cash](https://bitcoinmap.cash/)
+
+[HostFat's Links](https://bitcointalk.org/index.php?topic=5064089.msg)

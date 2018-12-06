@@ -18,4 +18,4 @@ A list of lists that describe Bitcoin Cash adoption, development, projects, etc.
 
 [Green Pages:  Bitcoin Cash Business Directory](https://greenpages.cash/pages/home.php)
 
-{Retailers accepting BCH via Gyft and eGifter](https://www.reddit.com/r/btc/comments/8crx66/reference_heres_a_raw_list_of_300_retailers_that/)
+[Retailers accepting BCH via Gyft and eGifter](https://www.reddit.com/r/btc/comments/8crx66/reference_heres_a_raw_list_of_300_retailers_that/)
